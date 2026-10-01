@@ -1,3 +1,2 @@
-# ATENCION
-## TEXTO MEDIANO
-### texto chikito
+# PROJECT ADMINISTRATION COURSE
+### This is the repository for all my class projects
